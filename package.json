@@ -21,9 +21,6 @@
   "keywords": [],
   "devDependencies": {
     "babel-plugin-relay": "10.0.1",
-    "babel-plugin-transform-dirname-filename": "^1.1.0",
-    "babel-plugin-transform-line": "0.9.0",
-    "babel-plugin-transform-react-jsx-source": "^6.22.0",
     "graphql": "^14.6.0",
     "graphql-json-to-sdl": "0.2.3",
     "prettier": "^2.1.2",
