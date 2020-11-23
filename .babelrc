@@ -1,0 +1,8 @@
+{
+  "plugins": [
+    "transform-dirname-filename",
+    "transform-line",
+    "transform-react-jsx-source",
+    "relay"
+  ]
+}
