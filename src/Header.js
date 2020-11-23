@@ -3,7 +3,7 @@ import React from 'react';
 export default function Header() {
   return (
     <header>
-      <h1>Sean's blog is the best! {__jsxFileName}</h1>
+      <h1>Sean's can blog from the console!</h1>
       <div className="logo">
         <img
           src="https://www.onegraph.com/android-chrome-512x512.png"
